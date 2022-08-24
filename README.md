@@ -1,8 +1,8 @@
 
-Raymond Fairthorne
-Coding test
-Didn't finish it
-The json is being hosted locally by json-server
+Raymond Fairthorne\
+Coding test\
+Didn't finish it\
+The json is being hosted locally by json-server\
 
 
 ---------------------------------

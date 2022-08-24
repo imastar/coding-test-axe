@@ -13,15 +13,14 @@ class App extends Component {
     if(!this.state.data) { return null }
     var paginationLimit = 20;
     for(let i = 0; i < 20; i++) {
-      console.log("this state data  i is " + i + " data:");
-      console.log(this.state.data[i]);
+      
     }
     let products = this.state.data;
-
     return (
       <div className="App">
         <div id="container">
-          All Products
+          <p>All Products</p>
+          <h5>{products.length} Products</h5>
           <div id="product_container">
             {products.map(product => {
               return(
@@ -49,7 +48,7 @@ class App extends Component {
     let products = [];
     for(let i = 0; i < paginationLimit; i++) {
       const item = products[i];
-      products.push()
+      products.push();
     }
   }
 }
