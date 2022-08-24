@@ -1,3 +1,12 @@
+
+Raymond Fairthorne
+Coding test
+Didn't finish it
+The json is being hosted locally by json-server
+
+
+---------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
